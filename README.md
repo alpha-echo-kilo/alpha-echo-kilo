@@ -2,7 +2,7 @@
 - 👀 I’m interested in open-source projects
 - 🌱 I’m currently learning the nostr protocol
 - 💞️ I’m looking to collaborate on all things open-source
-- 📫 How to reach me on nostr: npub1tnj9njhap4ryxadcwt953qnqz273cqt4vmznd4tygz65vfv3hchs04zcsz
+- 📫 How to reach me on nostr: https://njump.me/ak@nostrplebs.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I lift
 
